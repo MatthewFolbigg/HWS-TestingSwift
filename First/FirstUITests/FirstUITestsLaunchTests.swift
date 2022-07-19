@@ -1,8 +1,13 @@
-//___FILEHEADER___
+//
+//  FirstUITestsLaunchTests.swift
+//  FirstUITests
+//
+//  Created by Matthew Folbigg on 19/07/2022.
+//
 
 import XCTest
 
-class ___FILEBASENAMEASIDENTIFIER___: XCTestCase {
+class FirstUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

@@ -1,9 +1,14 @@
-//___FILEHEADER___
+//
+//  FirstApp.swift
+//  First
+//
+//  Created by Matthew Folbigg on 19/07/2022.
+//
 
 import SwiftUI
 
 @main
-struct ___PACKAGENAME:identifier___App: App {
+struct FirstApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

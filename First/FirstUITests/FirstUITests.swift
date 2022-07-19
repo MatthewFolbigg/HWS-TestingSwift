@@ -1,8 +1,13 @@
-//___FILEHEADER___
+//
+//  FirstUITests.swift
+//  FirstUITests
+//
+//  Created by Matthew Folbigg on 19/07/2022.
+//
 
 import XCTest
 
-class ___FILEBASENAMEASIDENTIFIER___: XCTestCase {
+class FirstUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

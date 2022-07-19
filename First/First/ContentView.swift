@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Project 1 - First
+//  First
 //
 //  Created by Matthew Folbigg on 19/07/2022.
 //

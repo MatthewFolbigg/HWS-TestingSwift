@@ -1,13 +1,13 @@
 //
-//  TDDUITests.swift
-//  TDDUITests
+//  Storm_Viewer_TDDUITests.swift
+//  Storm Viewer TDDUITests
 //
 //  Created by Matthew Folbigg on 25/07/2022.
 //
 
 import XCTest
 
-class TDDUITests: XCTestCase {
+class Storm_Viewer_TDDUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

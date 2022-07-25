@@ -1,13 +1,13 @@
 //
-//  TDDUITestsLaunchTests.swift
-//  TDDUITests
+//  Storm_Viewer_TDDUITestsLaunchTests.swift
+//  Storm Viewer TDDUITests
 //
 //  Created by Matthew Folbigg on 25/07/2022.
 //
 
 import XCTest
 
-class TDDUITestsLaunchTests: XCTestCase {
+class Storm_Viewer_TDDUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
